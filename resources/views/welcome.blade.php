@@ -20,7 +20,7 @@
 
                     <div class="freebirdFormviewerViewHeaderTitleRow">
 
-                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1"><h3>RIO SAN FRANCISCO O VICACHA Domingo 01 de Octubre de 2017</h3></div>
+                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1"><h3>RESERVA EL DELIRIO Domingo 08 de octubre de 2017</h3></div>
 
                     </div>
 <br>
@@ -32,21 +32,21 @@
 
                                 <li class="elmnt-one">                                 
 
-                                        <div class="wrap"><img src="public/Img/rio.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/delirio.jpg"  height="400">
 
                                         </div>                                   
                                 </li>
 
                                <li class="elmnt-two">
                                     
-                                        <div class="wrap"><img src="public/Img/rio1.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/delirio1.jpg"  height="400">
 
                                         </div>                                 
                                 </li>
 
                                  <li class="elmnt-three">
                                     
-                                        <div class="wrap"><img src="public/Img/rio2.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/delirio2.jpg"  height="400">
 
                                         </div>                                 
                                 </li>
@@ -76,22 +76,22 @@
 
                         <h3>Ubicación</h3>
 
-                        <p align="justify" style="font-size: 11pt; line-height: 25px">El sendero del río San Francisco o Vicachá está ubicado en la localidades de Candelaria y Santafé que marcaba el límite norte de Bogotá en sus primeros años de fundación. Nace en el páramo de Cruz Verde y baja por el canon entre los  cerros de Monserrate y Guadalupe. Al llegar a la ciudad en la Quinta de Bolívar es canalizado. En la actual avenida Jiménez con calle Sexta confluye por debajo de la tierra con el río San Agustín.</p>
+                        <p align="justify" style="font-size: 11pt; line-height: 25px">La reserva se encuentra ubicada en la zona Rural de la localidad de San Cristóbal barrio Aguas Claras.</p>
                        
                         <h3>Descripción del recorrido </h3>
 
-                        <p align="justify" style="font-size: 11pt; line-height: 25px">El recorrido da inicio en la Plazoleta del Rosario ubicada frente a la estación Museo del oro, donde se realizara un calentamiento de aproximadamente 20 minutos, el guía de caminatas del IDRD dará las recomendaciones asi como las prohibiciones y restricciones propias del recorrido y necesarias para su ejecucion. Se dará inicio a la caminata desde la carrera 7ª con avenida Jimenez desplazándose hacia el oriente por el eje ambiental hasta llegar a la avenida circunvalar e ingresando a los predios del acueducto. En este sector se construyó un sendero por en bosque de niebla que conduce al mirador donde se puede apreciar el centro de la ciudad. El sendero en descenso nos lleva a la universidad distrital y de allí a la avenida Jiménez con carrera 3ª donde finaliza la caminata.</p>
+                        <p align="justify" style="font-size: 11pt; line-height: 25px">El recorrido da inicio en el INCI (Instituto para Niños Ciegos) barrio San Cristóbal, donde el guía de caminatas realizará la presentación de la actividad, un calentamiento de aproximadamente 20 minutos y dará las recomendaciones propias del recorrido y necesarias para su ejecucion; se inicia el desplazamiento hacia la entrada de la Reserva 25 min. Aprox. <br>
+                        La magia del verde tranquilo con los sonidos del rio Fucha se imponen una vez se entra en la reserva, los senderos recorren lugares únicos y se podrá disfrutar de un agradable baño en sus cristalinas aguas. El regreso se hace de forma descendente llegando a la unión de las quebradas nuevamente. Los usuarios tienen la opción de tomar transporte inmediatamente se sale de la reserva o bajar al INCI nuevamente.</p>
 
                         <h3>Durante el recorrido se visitaran los siguientes aspectos:</h3>
                         <ul class="ul_inicio">
                             <font style="font-size: 11pt; line-height: 25px;">
-                            <li>Mirador </li>
-                            <li>Históricos </li>
-                            <li>Culturales</li>
-                            <li>Arquitectónicos</li>
-                            <li>Hídricos</li>
-                            <li>Ambientales </li>
-                            <li>Ecosistema de niebla y sub - páramo</li>
+                            <li>Parte del camino Real que conduce al páramo </li>
+                            <li>Bosque encantado </li>
+                            <li>Rio Fucha</li>
+                            <li>Sector La María</li>
+                            <li>Bosque abierto de pinos</li>
+                            <li>Unión de las Quebradas Palo Blanco y La Osa </li>
                             </font>
                         </ul>
                         <br>
@@ -112,7 +112,7 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Plazoleta del Rosario, frente a la estación Museo del Oro.</p>
+                                            <p>INCI (Instituto para Niños Ciegos) Cra 8 Este No. 11-30 Sur.</p>
 
                                         </td>
 
@@ -128,7 +128,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Domingo 01 de Octubre de 2017</p>
+                                            <p>Domingo 08 de octubre de 2017</p>
 
                                         </td>
 
@@ -192,7 +192,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Medio</p>
+                                            <p>Alto</p>
 
                                         </td>
 
